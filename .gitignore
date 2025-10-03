@@ -11,4 +11,6 @@
 /.zed
 /auth.json
 /node_modules
+/database_dumps
+/mongodb_collections_documents
 
